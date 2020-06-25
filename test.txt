@@ -1,2 +1,3 @@
 hello
 hello branch from featureA
+goodnight - feature B change
